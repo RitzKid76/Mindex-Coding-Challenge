@@ -9,8 +9,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class ChallengeApplicationTests {
 
-	@Test
-	public void contextLoads() {
-	}
+    // Not entirely sure what I was meant to do with this file, so I just made my own under test/java/com/mindex/challenge/service/impl to go alongside your provided EmployeeServiceImplTest
+    @Test
+    public void contextLoads() {
+    }
 
 }
